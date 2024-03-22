@@ -12,5 +12,6 @@ Here are some ideas to get you started:
   - C++
   - HTML
   - CSS
+  - Currently learning javascript
 - 😎 I'm well-versed in using the Linux OS.
  
