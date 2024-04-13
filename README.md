@@ -16,8 +16,8 @@ Here are some ideas to get you started:
   - Currently learning Django
 - 😎 I'm well-versed in using the Linux OS.
 #Tech Stack# ::
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/220px-ISO_C%2B%2B_Logo.svg.png" alt="C++" style="height:20px ; width:20px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" style="height:20px ; width:20px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/220px-ISO_C%2B%2B_Logo.svg.png" alt="C++" style="height:20px ; width:20px; display:inline">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" style="height:20px ; width:20px; display:inline">
 
 
 
