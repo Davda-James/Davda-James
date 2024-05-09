@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   - Javascript
   - Currently learning Django
 - 😎 I'm well-versed in using the Linux OS.
-#Tech Stack# ::
+# Tech Stack # ::
 <div style="display:flex ;justify-content:space-between">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/220px-ISO_C%2B%2B_Logo.svg.png" alt="C++" style="height:40px ; width:40px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" style="height:40px ; width:40px; ">
