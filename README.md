@@ -14,6 +14,7 @@ Here are some ideas to get you started:
   - CSS
   - Javascript
   - Currently learning Django
+  - Learning bash
 - 😎 I'm well-versed in using the Linux OS.
 # Tech Stack # ::
 <div style="display:flex ;justify-content:space-between">
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="css" style="height:40px ; width:40px;">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="css" style="height:40px ; width:40px;">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="css" style="height:40px ; width:40px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/bash.png" alt="css" style="height:40px ; width:40px;">
 </div>
 
 
