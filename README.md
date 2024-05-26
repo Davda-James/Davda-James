@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="css" style="height:40px ; width:40px;">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="css" style="height:40px ; width:40px;">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="css" style="height:40px ; width:40px;">
-  <img src="https://bashlogo.com/img/logo/png/full_colored_light.png" alt="css" style="height:40px ; width:40px;">
+  <img src="[https://bashlogo.com/img/logo/png/full_colored_light.png](https://cloud.githubusercontent.com/assets/2059754/24601246/753a7f36-1858-11e7-9d6b-7a0e64fb27f7.png)" alt="css" style="height:40px ; width:40px;">
 </div>
 
 
