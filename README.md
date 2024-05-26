@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m freshee at IIT MANDI.... 
-- 🌱 I’m currently learning web dev....
 - 💚 I code with 
   - Python
   - C++
