@@ -34,8 +34,14 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-davda-717b1a290)
   [![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/On_The_Top)
   
-
   </br>
+<details>	
+   <summary><b> Badges 🪶</b></summary><br>
+    <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  </summary>
+</details>
+    </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davda-james&show_icons=true&locale=en&layout=compact" alt="davda-james" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davda-james&show_icons=true&locale=en" alt="davda-james" /></p>
