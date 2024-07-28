@@ -31,7 +31,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/james-davda-717b1a290)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-davda-717b1a290)
 
   </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davda-james&show_icons=true&locale=en&layout=compact" alt="davda-james" /></p>
