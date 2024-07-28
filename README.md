@@ -12,9 +12,6 @@
 
 - 🌱 I’m currently learning **django and bash**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -32,6 +29,10 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="postman" width="45" height="45"/> </a>
 </p>
 <br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  !(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/james-davda-717b1a290)
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davda-james&show_icons=true&locale=en&layout=compact" alt="davda-james" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davda-james&show_icons=true&locale=en" alt="davda-james" /></p>
