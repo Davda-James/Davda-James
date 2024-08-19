@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davda-james" alt="davda-james" /></a> </p>
 
-- 🌱 I’m currently learning **django and bash**
+- 🌱 I’m currently learning **machine learning**
 
 
 <h3 align="left">Languages and Tools:</h3>
