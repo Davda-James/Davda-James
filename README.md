@@ -34,11 +34,11 @@
   [![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/On_The_Top)
   
   </br>
-<details>	
+<!-- <details>	
    <summary><b> Badges 🪶</b></summary><br>
     <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   </summary>
-</details>
+</details> -->
     </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davda-james&show_icons=true&locale=en&layout=compact" alt="davda-james" /></p>
 
