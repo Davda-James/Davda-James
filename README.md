@@ -33,7 +33,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-davda-717b1a290)
   [![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/On_The_Top)
   [![twitter](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/On_The_Top)
-  [![Twitter](https://img.shields.io/badge/Twitter-@JamesDavda007-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/JamesDavda007)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/JamesDavda007)
 
   
   </br>
