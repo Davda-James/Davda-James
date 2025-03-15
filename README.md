@@ -47,4 +47,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davda-james&show_icons=true&locale=en" alt="davda-james" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davda-james&" alt="davda-james" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davda-james&" alt="davda-james" /></p> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Davda-James&theme=dark)](https://git.io/streak-stats)
+
