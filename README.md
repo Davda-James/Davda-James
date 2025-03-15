@@ -4,7 +4,7 @@
 **Davda-James/Davda-James** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-<h1 align="center">Hi 👋, I'm Davda James</h1> 
+<h1 align="center">Hi 👋, I'm James</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davda-james&label=Profile%20views&color=0e75b6&style=flat" alt="davda-james" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davda-james" alt="davda-james" /></a> </p>
