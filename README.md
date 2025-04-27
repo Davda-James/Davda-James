@@ -86,7 +86,7 @@
   <a href="https://neovim.io/">
     <img src="https://skillicons.dev/icons?i=neovim" />
   </a>
-  <a href="">
+  <a href="https://www.vim.org/">
     <img src="https://skillicons.dev/icons?i=vim" />
   </a>
   <a href="https://github.com/Davda-James">
