@@ -14,10 +14,10 @@
   <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
-  <a href="">
+  <a href="https://www.c-language.org/">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
-  <a href="">
+  <a href="https://isocpp.org/">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
   <a href="https://soliditylang.org/">
@@ -47,10 +47,10 @@
   <a href="">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-   <a href="">
+   <a href="https://www.mongodb.com/">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
-   <a href="">
+   <a href="https://www.mysql.com/">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
   <a href="">
@@ -59,31 +59,31 @@
   <a href="">
     <img src="https://skillicons.dev/icons?i=flutter" />
   </a>
-  <a href="">
+  <a href="https://www.tensorflow.org/">
     <img src="https://skillicons.dev/icons?i=tensorflow" />
   </a>
-  <a href="">
+  <a href="https://scikit-learn.org/">
     <img src="https://skillicons.dev/icons?i=sklearn" />
   </a>
-  <a href="">
+  <a href="https://fastapi.tiangolo.com/">
     <img src="https://skillicons.dev/icons?i=fastapi" />
   </a>
-  <a href="https://git-scm.com/">
+  <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
-  <a href="">
+  <a href="https://www.docker.com/">
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
-  <a href="">
+  <a href="https://vercel.com/">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
-  <a href="">
+  <a href="https://www.netlify.com/">
     <img src="https://skillicons.dev/icons?i=netlify" />
   </a>
-  <a href="">
+  <a href="https://neovim.io/">
     <img src="https://skillicons.dev/icons?i=neovim" />
   </a>
   <a href="">
