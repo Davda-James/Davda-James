@@ -4,9 +4,10 @@
 
 
 <!-- <h1 align="center">Hi 👋, I'm James</h1>  -->
-<div align="center"> 
+<p align="center"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+James%F0%9F%91%8B;Let's+Connect!"/>
-</div>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davda-james&label=Profile%20views&color=0e75b6&style=flat" alt="davda-james" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davda-james" alt="davda-james" /></a> </p>
