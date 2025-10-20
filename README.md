@@ -5,7 +5,7 @@
 
 <!-- <h1 align="center">Hi 👋, I'm James</h1>  -->
 <p align="center"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+James%F0%9F%91%8B;Let's+Connect!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&color=2AF7B4&width=600&lines=Hi%2C+I'm+James%F0%9F%91%8B;Let's+Connect!"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davda-james&label=Profile%20views&color=0e75b6&style=flat" alt="davda-james" /> </p>
