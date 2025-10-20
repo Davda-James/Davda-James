@@ -8,8 +8,6 @@
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&color=2AF7B4&width=600&lines=Hi%2C+I'm+James%F0%9F%91%8B;Let's+Connect!"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davda-james&label=Profile%20views&color=0e75b6&style=flat" alt="davda-james" /> </p>
-
 <!-- <h3 align="center">Connect with me:</h3> -->
 <p>
 <a href="https://x.com/jamesdavda007">
@@ -22,6 +20,8 @@
   <img  height="50"src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/telegram.svg">
 </a>
 </p> 
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davda-james&label=Profile%20views&color=0e75b6&style=flat" alt="davda-james" /> </p>
 
 <h3 align="left">Technologies</h3>
 <p align="left">
