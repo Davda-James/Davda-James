@@ -28,6 +28,9 @@
   <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
+  <a href="https://rust-lang.org">
+    <img src="https://skillicons.dev/icons?i=rust" />
+  </a>
   <a href="https://www.c-language.org/">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
