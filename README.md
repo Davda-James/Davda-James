@@ -4,11 +4,28 @@
 
 
 <!-- <h1 align="center">Hi 👋, I'm James</h1>  -->
-<p> 
+<!-- <p> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&color=2AF7B4&width=600&lines=Hi%2C+I'm+James%F0%9F%91%8B;Let's+Connect!"/>
-</p>
+</p> -->
 
 <!-- <h3 align="center">Connect with me:</h3> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=davda-james&label=Profile%20views&color=0e75b6&style=flat" alt="davda-james" /> </p>
+
+```rust
+struct Profile {
+  name: &'static str,
+  languages: [&'static str; 4],  
+}
+
+fn main() {
+  let me = Profile {
+              name: "James",
+              languages: ["Python", "Typescript", "Rust", "Solidity"]
+  };
+  println!("Hi 👋, I'm {}", me.name);
+  println!("I cook with {:}", me.languages.join(", "));
+}
+```
 <p>
 <a href="https://x.com/jamesdavda007">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
@@ -20,10 +37,8 @@
   <img  height="50"src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/telegram.svg">
 </a>
 </p> 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davda-james&label=Profile%20views&color=0e75b6&style=flat" alt="davda-james" /> </p>
 
-<h3 align="left">Technologies</h3>
+### Stuff I code with
 <p align="left">
   <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=python" />
@@ -111,9 +126,8 @@
   </a>
 </p>
 
-<h3 align="left">Github Trophies</h3>
+### Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davda-james" alt="davda-james" /></a> </p>
-
 </br>
 <!-- <details>	
    <summary><b> Badges 🪶</b></summary><br>
@@ -130,3 +144,6 @@
 </table>
 <img src="https://streak-stats.demolab.com/?user=Davda-James" alt="Github Streaks" />
 </div>
+
+[![An image of @neuron's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neuron)](https://holopin.io/@neuron)
+
