@@ -128,7 +128,6 @@ fn main() {
 
 ### Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davda-james" alt="davda-james" /></a> </p>
-</br>
 <!-- <details>	
    <summary><b> Badges 🪶</b></summary><br>
     <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -137,12 +136,16 @@ fn main() {
 <!--     </br> -->
 <div align="center">
 <table>
-<tr>
-  <td valign='center'><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=davda-james&show_icons=true&locale=en&layout=compact&hide_border=true&&count_private=true&include_all_commits=true" alt="davda-james" /></td>
-  <td valign='center'><img height="180em" src="https://github-readme-stats.vercel.app/api?username=davda-james&show_icons=true&locale=en&&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact" alt="davda-james" /></td
-</tr>
+  <tr>
+    <td valign='center'><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=davda-james&show_icons=true&locale=en&layout=compact&hide_border=true&&count_private=true&include_all_commits=true" alt="davda-james" /></td>
+    <td valign='center'><img height="180em" src="https://github-readme-stats.vercel.app/api?username=davda-james&show_icons=true&locale=en&&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact" alt="davda-james" /></td>
+  </tr>
+  <tr>
+     <td colspan="2" align="center">
+       <img src="https://streak-stats.demolab.com/?user=Davda-James" alt="Github Streaks" />
+     </td> 
+  </tr>
 </table>
-<img src="https://streak-stats.demolab.com/?user=Davda-James" alt="Github Streaks" />
 </div>
 
 [![An image of @neuron's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neuron)](https://holopin.io/@neuron)
