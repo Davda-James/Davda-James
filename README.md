@@ -126,6 +126,17 @@ fn main() {
   </a>
 </p>
 
+### Proof of Work
+<div align="left">
+  <a href="https://gist.github.com/Davda-James/23ce2ca6d94187aaaa64d5519ba9ac91" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/github-Proof_of_Work-6e6e6e?logo=github&style=flat-square&label=&labelColor=000000"/>
+  </a>
+  <a href="https://github.com/Davda-James/SolanaPrograms" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/github-Solana_Programs-6e6e6e?logo=github&style=flat-square&label=&labelColor=000000"/>
+  </a>
+</div>
+
+
 ### Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davda-james" alt="davda-james" /></a> </p>
 <!-- <details>	
