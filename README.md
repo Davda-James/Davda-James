@@ -137,15 +137,15 @@ fn main() {
 </div>
 
 
-### Github Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davda-james" alt="davda-james" /></a> </p>
+<!-- ### Github Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davda-james" alt="davda-james" /></a> </p> -->
 <!-- <details>	
    <summary><b> Badges 🪶</b></summary><br>
     <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   </summary>
 </details> -->
 <!--     </br> -->
-<div align="center">
+<!-- <div align="center">
 <table>
   <tr>
     <td valign='center'><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=davda-james&show_icons=true&locale=en&layout=compact&hide_border=true&&count_private=true&include_all_commits=true" alt="davda-james" /></td>
@@ -157,7 +157,12 @@ fn main() {
      </td> 
   </tr>
 </table>
-</div>
+</div> -->
+<pre>
+<b>Cool Work</b>
+  
+  &gt; <a href="https://crates.io/crates/gitdash">GitDash</a> - A Rust CLI tool to stalk GitHub profiles without ever leaving your terminal.
+</pre>
 
 [![An image of @neuron's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neuron)](https://holopin.io/@neuron)
 
