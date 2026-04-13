@@ -1,8 +1,3 @@
-
-<!--
-**Davda-James/Davda-James** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-
 <!-- <h1 align="center">Hi 👋, I'm James</h1>  -->
 <!-- <p> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&color=2AF7B4&width=600&lines=Hi%2C+I'm+James%F0%9F%91%8B;Let's+Connect!"/>
@@ -26,6 +21,25 @@ fn main() {
   println!("I cook with {:}", me.languages.join(", "));
 }
 ```
+
+### Cool Work
+| |
+|---|
+| > [DHIRAJ AYU ACADEMY](https://play.google.com/store/apps/details?id=com.dhirajayu.academy) – An Android app that helps Ayurveda students prepare for competitive exams like AIAPGET, GPSC etc., made for a professor at Nobel University. |
+| > [GitDash](https://crates.io/crates/gitdash) – A Rust CLI tool to stalk GitHub profiles without ever leaving your terminal. |
+
+### Proof of Work
+<p>
+<div align="left">
+  <a href="https://gist.github.com/Davda-James/23ce2ca6d94187aaaa64d5519ba9ac91" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/github-Proof_of_Work-6e6e6e?logo=github&style=flat-square&label=&labelColor=000000"/>
+  </a>
+  <a href="https://github.com/Davda-James/SolanaPrograms" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/github-Solana_Programs-6e6e6e?logo=github&style=flat-square&label=&labelColor=000000"/>
+  </a>
+</div>
+</p>
+
 <p>
 <a href="https://x.com/jamesdavda007">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
@@ -126,17 +140,6 @@ fn main() {
   </a>
 </p>
 
-### Proof of Work
-<div align="left">
-  <a href="https://gist.github.com/Davda-James/23ce2ca6d94187aaaa64d5519ba9ac91" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/github-Proof_of_Work-6e6e6e?logo=github&style=flat-square&label=&labelColor=000000"/>
-  </a>
-  <a href="https://github.com/Davda-James/SolanaPrograms" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/github-Solana_Programs-6e6e6e?logo=github&style=flat-square&label=&labelColor=000000"/>
-  </a>
-</div>
-
-
 <!-- ### Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davda-james" alt="davda-james" /></a> </p> -->
 <!-- <details>	
@@ -158,12 +161,5 @@ fn main() {
   </tr>
 </table>
 </div> -->
-<pre>
-<b>Cool Work</b>
-  
-  &gt; <a href="https://play.google.com/store/apps/details?id=com.dhirajayu.academy">DHIRAJ AYU ACADEMY - An android app that helps Ayurveda students prepare for competitive exams like AIAPGET, GPSC etc., made for professor of Nobel University.
-  &gt; <a href="https://crates.io/crates/gitdash">GitDash</a> - A Rust CLI tool to stalk GitHub profiles without ever leaving your terminal.
-</pre>
 
 [![An image of @neuron's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neuron)](https://holopin.io/@neuron)
-
