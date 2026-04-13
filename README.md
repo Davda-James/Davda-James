@@ -161,6 +161,7 @@ fn main() {
 <pre>
 <b>Cool Work</b>
   
+  &gt; <a href="https://play.google.com/store/apps/details?id=com.dhirajayu.academy">DHIRAJ AYU ACADEMY - An android app that helps Ayurveda students prepare for competitive exams like AIAPGET, GPSC etc., made for professor of Nobel University.
   &gt; <a href="https://crates.io/crates/gitdash">GitDash</a> - A Rust CLI tool to stalk GitHub profiles without ever leaving your terminal.
 </pre>
 
