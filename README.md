@@ -40,19 +40,26 @@ fn main() {
 </div>
 </p>
 
-<p>
-<a href="https://x.com/jamesdavda007">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.linkedin.com/in/james-davda/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://t.me/jamesdavda007">
-  <img  height="50"src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/telegram.svg">
-</a>
-</p> 
+<table width="100%">
+  <tr>
+    <td align="left">
+      <b>Let’s Talk</b>
+    </td>
+    <td align="right">
+      <a href="https://x.com/jamesdavda007">
+        <img height="40" src="https://img.icons8.com/fluency/48/twitter.png"/>
+      </a>
+      <a href="https://www.linkedin.com/in/james-davda/">
+        <img height="40" src="https://img.icons8.com/fluency/48/linkedin.png"/>
+      </a>
+      <a href="https://t.me/jamesdavda007">
+        <img height="40" src="https://img.icons8.com/fluency/48/telegram-app.png"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### Stuff I code with
+<!-- ### Stuff I code with
 <p align="left">
   <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=python" />
@@ -138,7 +145,7 @@ fn main() {
   <a href="https://github.com/Davda-James">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</p>
+</p> -->
 
 <!-- ### Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davda-james" alt="davda-james" /></a> </p> -->
@@ -161,5 +168,23 @@ fn main() {
   </tr>
 </table>
 </div> -->
-
-[![An image of @neuron's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neuron)](https://holopin.io/@neuron)
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davda-James&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" 
+        width="100%"
+        />
+    </td>
+  </tr>
+  <tr>
+    <td width="40%">
+      <a href="https://holopin.me/@neuron">
+        <img src="https://holopin.me/neuron" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davda-James&theme=nord_dark" width="100%" />
+    </td>
+  </tr>
+</table>
+<!-- [![An image of @neuron's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neuron)](https://holopin.io/@neuron) -->
