@@ -25,8 +25,8 @@ fn main() {
 #### Cool Work
 | |
 |---|
-| > [DHIRAJ AYU ACADEMY](https://play.google.com/store/apps/details?id=com.dhirajayu.academy) – An Android app that helps Ayurveda students prepare for competitive exams like AIAPGET, GPSC etc., made for a professor at Nobel University. | > [
-| > Expert Talk [ios](https://apps.apple.com/in/app/expert-talk/id6761551325) [android](https://play.google.com/store/apps/details?id=com.talentexec.experttalk) – A freelance project . |
+| > [DHIRAJ AYU ACADEMY](https://play.google.com/store/apps/details?id=com.dhirajayu.academy) – An Android app that helps Ayurveda students prepare for competitive exams like AIAPGET, GPSC etc., made for a professor at Nobel University. 
+| > Expert Talk [ios](https://apps.apple.com/in/app/expert-talk/id6761551325) [android](https://play.google.com/store/apps/details?id=com.talentexec.experttalk) – (Freelance) An Android/iOS app that connects mentees with mentors for one on one conversations, with per-minute billing based on the time spent chatting. |
 
 See my personal projects and other work at [Portfolio](https://itsjames.is-a.dev/)
 
@@ -40,8 +40,12 @@ See my personal projects and other work at [Portfolio](https://itsjames.is-a.dev
   </a>
 </div>
 </p>
-Connect with me on [X (@JamesDavda007)](https://x.com/JamesDavda007) or [LinkedIn (james-davda)](https://linkedin.com/in/james-davda).
-
+<p>
+  Connect with me on
+  <a href="https://x.com/JamesDavda007">X (@JamesDavda007)</a>
+  or
+  <a href="https://linkedin.com/in/james-davda">LinkedIn (james-davda)</a>.
+</p>
 <!-- <table width="100%">
   <tr>
     <td align="left">
