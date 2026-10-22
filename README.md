@@ -4,9 +4,9 @@
 </p> -->
 
 <!-- <h3 align="center">Connect with me:</h3> -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=davda-james&label=Profile%20views&color=0e75b6&style=flat" alt="davda-james" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=davda-james&label=Profile%20views&color=0e75b6&style=flat" alt="davda-james" /> </p> -->
 
-```rust
+<!-- ```rust
 struct Profile {
   name: &'static str,
   languages: [&'static str; 4],  
@@ -20,27 +20,29 @@ fn main() {
   println!("Hi 👋, I'm {}", me.name);
   println!("I cook with {:}", me.languages.join(", "));
 }
-```
-
-### Cool Work
+``` -->
+### Hi👋 I'm James
+#### Cool Work
 | |
 |---|
-| > [DHIRAJ AYU ACADEMY](https://play.google.com/store/apps/details?id=com.dhirajayu.academy) – An Android app that helps Ayurveda students prepare for competitive exams like AIAPGET, GPSC etc., made for a professor at Nobel University. |
-| > [GitDash](https://crates.io/crates/gitdash) – A Rust CLI tool to stalk GitHub profiles without ever leaving your terminal. |
+| > [DHIRAJ AYU ACADEMY](https://play.google.com/store/apps/details?id=com.dhirajayu.academy) – An Android app that helps Ayurveda students prepare for competitive exams like AIAPGET, GPSC etc., made for a professor at Nobel University. | > [
+| > Expert Talk [ios](https://apps.apple.com/in/app/expert-talk/id6761551325) [android](https://play.google.com/store/apps/details?id=com.talentexec.experttalk) – A freelance project . |
 
-### Proof of Work
+See my personal projects and other work at [Portfolio](https://itsjames.is-a.dev/)
+
 <p>
 <div align="left">
   <a href="https://gist.github.com/Davda-James/23ce2ca6d94187aaaa64d5519ba9ac91" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/github-Proof_of_Work-6e6e6e?logo=github&style=flat-square&label=&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/github-Journey-6e6e6e?logo=github&style=flat-square&label=&labelColor=000000"/>
   </a>
   <a href="https://github.com/Davda-James/SolanaPrograms" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/github-Solana_Programs-6e6e6e?logo=github&style=flat-square&label=&labelColor=000000"/>
   </a>
 </div>
 </p>
+Connect with me on [X (@JamesDavda007)](https://x.com/JamesDavda007) or [LinkedIn (james-davda)](https://linkedin.com/in/james-davda).
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td align="left">
       <b>Let’s Talk</b>
@@ -57,7 +59,7 @@ fn main() {
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ### Stuff I code with
 <p align="left">
@@ -168,7 +170,7 @@ fn main() {
   </tr>
 </table>
 </div> -->
-<table>
+<!-- <table>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davda-James&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" 
@@ -186,5 +188,5 @@ fn main() {
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davda-James&theme=nord_dark" width="100%" />
     </td>
   </tr>
-</table>
+</table> -->
 <!-- [![An image of @neuron's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neuron)](https://holopin.io/@neuron) -->
